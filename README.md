@@ -9,7 +9,7 @@ A classic Rock Paper Scissors game built using HTML, CSS, and JavaScript. Challe
 - Modern and user-friendly interface
 
 ## Technologies Used
-- HTML5
+- HTML5     
 - CSS3
 - JavaScript (ES6)
 
